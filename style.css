@@ -1,1 +1,12 @@
-body { padding-top: 50px; }
+body {
+  padding-top: 50px;
+}
+
+.grid {
+  font-size: 0;
+}
+
+.grid img {
+  width: 30%;
+  padding: 1%;
+}
