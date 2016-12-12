@@ -1,5 +1,5 @@
 body {
-  padding-top: 50px;
+  border-top: 1px solid #000;
 }
 
 .grid {
@@ -9,4 +9,8 @@ body {
 .grid img {
   width: 30%;
   padding: 1%;
+}
+
+div{
+  lg(left, #fc0 30%, orange)
 }
